@@ -1,4 +1,16 @@
-export default function Board() {
+'use client'
+
+import { useRef } from 'react'
+import {
+  useAppSelector,
+  // useAppDispatch,
+  useAppStore
+} from './../../redux/hooks'
+
+export const Board = () => {
+  const store = useAppStore()
+  const clansAktive = useAppSelector((state) => console.log(state))
+  // console.log(store)
   // Генерируем массив ячеек для заполнения сетки
   const cells = Array.from({ length: 22 * 73 }, (_, index) => index + 1)
   return (
