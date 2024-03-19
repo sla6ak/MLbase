@@ -10,7 +10,6 @@ import {
 export const FilterClan = () => {
   const dispatch = useAppDispatch()
   const handleButtonClick = (nameE) => {
-    console.log(nameE)
     dispatch(toggleButtonClans(nameE))
   }
   return (
