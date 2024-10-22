@@ -308,6 +308,13 @@ export const players = [
     rase: 'dark'
   },
   {
+    nikName: 'Garbash',
+    reiting: '190',
+    position: '58-2-7',
+    clan: 'feniks',
+    rase: 'dark'
+  },
+  {
     nikName: 'alexey3888',
     reiting: '192',
     position: '65-3-30',
