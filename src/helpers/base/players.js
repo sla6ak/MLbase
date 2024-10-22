@@ -477,15 +477,15 @@ export const players = [
   },
   {
     nikName: 'bogo86rus',
-    reiting: '223',
-    position: '33-2-32',
+    reiting: '880',
+    position: '25-15-36',
     clan: 'pauk',
     rase: 'wite'
   },
   {
     nikName: 'aMonk',
-    reiting: '154',
-    position: '37-10-43',
+    reiting: '210',
+    position: '39-13-7',
     clan: 'pauk',
     rase: 'dark'
   },
