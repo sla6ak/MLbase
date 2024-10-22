@@ -302,192 +302,150 @@ export const players = [
   },
   {
     nikName: 'alexey3888',
-    reiting: '258',
-    position: '57-21-33',
-    clan: 'oldSchool',
-    rase: 'dark'
-  },
-  {
-    nikName: 'ValdeSamar',
-    reiting: '158',
-    position: '54-14-26',
-    clan: 'oldSchool',
+    reiting: '192',
+    position: '65-3-30',
+    clan: 'feniks',
     rase: 'dark'
   },
   {
     nikName: 'With0utErrors',
-    reiting: '3184',
+    reiting: '1300',
     position: '70-4-55',
     clan: 'feniks',
-    rase: ''
+    rase: 'dark'
   },
   {
     nikName: 'Kobrius',
-    reiting: '1866',
-    position: '61-8-1',
+    reiting: '1566',
+    position: '61-11-45',
     clan: 'feniks',
-    rase: ''
-  },
-  {
-    nikName: 'SergeyIvanov984',
-    reiting: '1695',
-    position: '59-3-25',
-    clan: 'feniks',
-    rase: ''
+    rase: 'dark'
   },
   {
     nikName: 'sergiogonsalez',
-    reiting: '885',
-    position: '53-20-35',
+    reiting: '625',
+    position: '68-3-63',
     clan: 'feniks',
-    rase: ''
+    rase: 'dark'
   },
   {
     nikName: 'bbbvcc',
-    reiting: '594',
+    reiting: '263',
     position: '71-11-30',
     clan: 'feniks',
-    rase: ''
+    rase: 'wite'
   },
   {
     nikName: 'MikMiras',
-    reiting: '461',
+    reiting: '640',
     position: '68-10-54',
     clan: 'feniks',
     rase: 'dark'
   },
   {
     nikName: 'Nicon2023',
-    reiting: '321',
-    position: '65-11-61',
-    clan: 'feniks',
-    rase: 'wite'
-  },
-  {
-    nikName: 'aleks8888Human',
-    reiting: '247',
-    position: '51-4-52',
+    reiting: '800',
+    position: '66-20-41',
     clan: 'feniks',
     rase: 'wite'
   },
   {
     nikName: 'NikitaVoron3818',
-    reiting: '208',
-    position: '50-19-34',
-    clan: 'feniks',
-    rase: 'wite'
-  },
-  {
-    nikName: 'drazdov',
-    reiting: '190',
-    position: '52-8-9',
+    reiting: '430',
+    position: '68-2-6',
     clan: 'feniks',
     rase: 'wite'
   },
   {
     nikName: 'AndreiOlaru',
-    reiting: '117',
-    position: '65-14-35',
+    reiting: '161',
+    position: '65-19-42',
     clan: 'feniks',
     rase: 'wite'
   },
   {
     nikName: 'Froster',
-    reiting: '8342',
-    position: '61-11-27',
-    clan: 'slavaRycari',
+    reiting: '14100',
+    position: '60-17-58',
+    clan: 'feniks',
     rase: 'dark'
   },
   {
     nikName: 'Slava3571',
-    reiting: '1789',
-    position: '58-13-19',
+    reiting: '5060',
+    position: '59-9-37',
     clan: 'slavaRycari',
     rase: 'wite'
   },
   {
     nikName: 'SidorovAleksand',
-    reiting: '227',
+    reiting: '440',
     position: '29-19-20',
     clan: 'slavaRycari',
     rase: 'wite'
   },
   {
     nikName: 'zhrimbek',
-    reiting: '211',
-    position: '21-18-12',
+    reiting: '300',
+    position: '59-21-9',
     clan: 'slavaRycari',
     rase: 'wite'
   },
   {
-    nikName: 'Meym',
-    reiting: '',
-    position: '24-11-21',
-    clan: 'slavaRycari',
-    rase: 'dark'
-  },
-  {
     nikName: 'Hard76Elf',
-    reiting: '',
-    position: '24-15-32',
+    reiting: '93',
+    position: '59-7-60',
     clan: 'slavaRycari',
     rase: 'wite'
   },
   {
     nikName: 'bogi777',
-    reiting: '6431',
+    reiting: '14000',
     position: '71-20-55',
     clan: 'prometey',
-    rase: ''
+    rase: 'dark'
   },
   {
     nikName: 'Nazarevich1976',
-    reiting: '241',
+    reiting: '251',
     position: '56-20-36',
     clan: 'prometey',
     rase: 'wite'
   },
   {
     nikName: 'giveMEtango',
-    reiting: '472',
+    reiting: '905',
     position: '72-1-27',
     clan: 'gravicapa',
     rase: 'dark'
   },
   {
     nikName: 'trassarda',
-    reiting: '403',
+    reiting: '500',
     position: '49-16-4',
     clan: 'gravicapa',
     rase: 'wite'
   },
   {
     nikName: 'colonel2021',
-    reiting: '158',
+    reiting: '405',
     position: '52-16-17',
     clan: 'gravicapa',
     rase: 'dark'
   },
   {
-    nikName: 'Schelden',
-    reiting: '88',
-    position: '37-13-56',
-    clan: 'gravicapa',
+    nikName: 'SMA2909',
+    reiting: '930',
+    position: '62-2-52',
+    clan: 'enigma',
     rase: 'wite'
   },
   {
-    nikName: 'SMA2909',
-    reiting: '791',
-    position: '35-21-43',
-    clan: 'enigma',
-    rase: ''
-  },
-  {
     nikName: 'asd0022',
-    reiting: '735',
-    position: '57-8-11',
+    reiting: '3100',
+    position: '46-19-26',
     clan: 'enigma',
-    rase: ''
+    rase: 'wite'
   },
   {
     nikName: 'Diver1985',
@@ -498,22 +456,22 @@ export const players = [
   },
   {
     nikName: 'Evgen203203',
-    reiting: '102',
-    position: '54-19-36',
+    reiting: '4750',
+    position: '70-8-10',
     clan: 'enigma',
     rase: 'wite'
   },
   {
     nikName: 'Roxan161',
-    reiting: '102',
-    position: '31-22-20',
+    reiting: '1172',
+    position: '66-6-16',
     clan: 'enigma',
     rase: 'wite'
   },
   {
     nikName: 'VeterVodbI',
-    reiting: '414',
-    position: '40-10-46',
+    reiting: '1114',
+    position: '28-15-27',
     clan: 'pauk',
     rase: 'dark'
   },
@@ -533,29 +491,15 @@ export const players = [
   },
   {
     nikName: 'sla6ak',
-    reiting: '104',
-    position: '41-8-17',
+    reiting: '1114',
+    position: '29-19-58',
     clan: 'pauk',
-    rase: 'wite'
-  },
-  {
-    nikName: 'CrusaderArm',
-    reiting: '61',
-    position: '41-16-33',
-    clan: 'pauk',
-    rase: 'wite'
-  },
-  {
-    nikName: 'Teknoz',
-    reiting: '420',
-    position: '3-14-52',
-    clan: 'kings',
     rase: 'wite'
   },
   {
     nikName: 'SALIM888',
-    reiting: '593',
-    position: '27-20-7',
+    reiting: '990',
+    position: '53-7-8',
     clan: 'kings',
     rase: 'wite'
   },
@@ -563,28 +507,28 @@ export const players = [
     nikName: 'NodeJs',
     reiting: '475',
     position: '69-3-63',
-    clan: '',
+    clan: 'kings',
     rase: 'wite'
   },
   {
     nikName: 'smore',
-    reiting: '269',
+    reiting: '500',
     position: '2-6-31',
     clan: 'esperanto',
-    rase: ''
+    rase: 'wite'
   },
   {
     nikName: 'Falayt2023',
-    reiting: '',
+    reiting: '290',
     position: '71-13-50',
-    clan: '',
-    rase: ''
+    clan: 'oldSchool',
+    rase: 'dark'
   },
   {
     nikName: 'LOENXXX',
     reiting: '',
     position: '53-6-25',
-    clan: '',
+    clan: 'kings',
     rase: 'wite'
   }
 ]
