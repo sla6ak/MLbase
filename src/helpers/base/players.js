@@ -134,197 +134,169 @@ export const players = [
   },
   {
     nikName: 'ColeWar',
-    reiting: '1168',
+    reiting: '90',
     position: '46-19-12',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'EDZ0',
-    reiting: '1158',
-    position: '8-4-48',
+    reiting: '2610',
+    position: '15-10-59',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'H0PKA',
-    reiting: '1121',
-    position: '56-3-27',
+    reiting: '1521',
+    position: '3-19-59',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
-    nikName: 'Marbella',
-    reiting: '938',
-    position: '24-11-32',
+    nikName: 'CrusaderArm',
+    reiting: '5610',
+    position: '61-4-41',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'pahabatka',
-    reiting: '776',
-    position: '31-18-11',
+    reiting: '946',
+    position: '16-15-49',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
-    nikName: 'KasionElf',
-    reiting: '571',
-    position: '20-19-36',
-    clan: 'bezLen',
-    rase: 'wite'
-  },
-  {
     nikName: 'Rezari',
-    reiting: '529',
-    position: '36-4-41',
+    reiting: '5329',
+    position: '29-19-47',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'BizyaaUA',
-    reiting: '483',
-    position: '12-6-46',
+    reiting: '756',
+    position: '14-2-2',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
     nikName: 'Bloomi',
-    reiting: '427',
-    position: '53-4-41',
+    reiting: '500',
+    position: '3-19-24',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'akkyba',
-    reiting: '422',
-    position: '41-3-32',
+    reiting: '9200',
+    position: '27-4-41',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'Vartun',
-    reiting: '364',
+    reiting: '785',
     position: '3-11-10',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'ckverus',
-    reiting: '25513',
-    position: '34-11-1',
+    reiting: '32353',
+    position: '61-18-11',
     clan: 'lenaEst',
     rase: 'dark'
   },
   {
     nikName: 'MountainMM',
-    reiting: '11158',
-    position: '67-8-38',
+    reiting: '12208',
+    position: '69-11-31',
     clan: 'lenaEst',
-    rase: ''
+    rase: 'dark'
   },
   {
     nikName: 'ElenaHerbaut',
-    reiting: '8407',
-    position: '53-11-1',
+    reiting: '24200',
+    position: '34-11-5',
     clan: 'lenaEst',
-    rase: ''
+    rase: 'wite'
   },
   {
     nikName: 'Reeemo',
-    reiting: '3441',
-    position: '63-17-43',
+    reiting: '3941',
+    position: '26-11-30',
     clan: 'lenaEst',
     rase: 'wite'
   },
   {
     nikName: 'Sfforme',
-    reiting: '126',
-    position: '54-4-15',
+    reiting: '6300',
+    position: '53-11-1',
     clan: 'lenaEst',
     rase: 'wite'
   },
   {
-    nikName: 'RudiTT',
-    reiting: '9105',
-    position: '66-20-14',
-    clan: 'oldSchool',
-    rase: ''
-  },
-  {
     nikName: 'MDB93',
-    reiting: '5627',
-    position: '58-17-35',
+    reiting: '14800',
+    position: '54-18-59',
     clan: 'oldSchool',
-    rase: ''
+    rase: 'wite'
   },
   {
     nikName: 'CallipsoX',
-    reiting: '3593',
+    reiting: '2390',
     position: '66-15-63',
     clan: 'oldSchool',
-    rase: ''
+    rase: 'wite'
   },
   {
     nikName: '44Lion44',
-    reiting: '3116',
-    position: '61-20-41',
+    reiting: '1517',
+    position: '56-21-28',
     clan: 'oldSchool',
-    rase: ''
-  },
-  {
-    nikName: 'DblM84',
-    reiting: '1782',
-    position: '66-11-9',
-    clan: 'oldSchool',
-    rase: ''
+    rase: 'wite'
   },
   {
     nikName: 'Fantok',
-    reiting: '1585',
-    position: '66-3-30',
-    clan: 'oldSchool',
-    rase: ''
-  },
-  {
-    nikName: 'kingLuboMYR',
-    reiting: '1405',
-    position: '56-20-39',
-    clan: 'oldSchool',
-    rase: ''
-  },
-  {
-    nikName: 'VictorUA23',
-    reiting: '1082',
-    position: '71-15-22',
-    clan: 'oldSchool',
-    rase: ''
-  },
-  {
-    nikName: 'Bortis',
-    reiting: '459',
-    position: '40-9-25',
-    clan: 'oldSchool',
-    rase: 'wite'
-  },
-  {
-    nikName: 'rosul',
-    reiting: '415',
-    position: '4-8-52',
-    clan: 'oldSchool',
-    rase: 'wite'
-  },
-  {
-    nikName: 'Assisstent93',
-    reiting: '295',
-    position: '26-14-33',
+    reiting: '3250',
+    position: '62-7-21',
     clan: 'oldSchool',
     rase: 'dark'
   },
   {
+    nikName: 'kingLuboMYR',
+    reiting: '479',
+    position: '58-13-13',
+    clan: 'slavaRycari',
+    rase: 'wite'
+  },
+  {
+    nikName: 'VictorUA23',
+    reiting: '3100',
+    position: '71-15-22',
+    clan: 'oldSchool',
+    rase: 'dark'
+  },
+  {
+    nikName: 'rosul',
+    reiting: '520',
+    position: '4-7-56',
+    clan: 'kings',
+    rase: 'wite'
+  },
+  {
+    nikName: 'Assisstent93',
+    reiting: '590',
+    position: '49-19-1',
+    clan: 'slavaRycari',
+    rase: 'dark'
+  },
+  {
     nikName: 'slayer1',
-    reiting: '287',
-    position: '33-9-42',
+    reiting: '640',
+    position: '53-2-4',
     clan: 'oldSchool',
     rase: 'dark'
   },
@@ -584,7 +556,7 @@ export const players = [
     nikName: 'SALIM888',
     reiting: '593',
     position: '27-20-7',
-    clan: '',
+    clan: 'kings',
     rase: 'wite'
   },
   {
