@@ -7,6 +7,13 @@ export const players = [
     rase: 'wite'
   },
   {
+    nikName: 'xExpertRFx',
+    reiting: '505',
+    position: '40-4-55',
+    clan: 'lenaEst',
+    rase: 'wite'
+  },
+  {
     nikName: 'RobinGodSV',
     reiting: '30000',
     position: '69-17-32',
@@ -462,6 +469,13 @@ export const players = [
     rase: 'wite'
   },
   {
+    nikName: 'Diver1985',
+    reiting: '570',
+    position: '66-10-30',
+    clan: 'enigma',
+    rase: 'wite'
+  },
+  {
     nikName: 'Roxan161',
     reiting: '1172',
     position: '66-6-16',
@@ -479,6 +493,13 @@ export const players = [
     nikName: 'bogo86rus',
     reiting: '880',
     position: '25-15-36',
+    clan: 'pauk',
+    rase: 'wite'
+  },
+  {
+    nikName: 'lalfl',
+    reiting: '220',
+    position: '34-19-48',
     clan: 'pauk',
     rase: 'wite'
   },
