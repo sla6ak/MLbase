@@ -1,14 +1,14 @@
 export const players = [
   {
     nikName: 'KERNN',
-    reiting: '22356',
+    reiting: '49200',
     position: '46-11-46',
-    clan: 'bezLen',
+    clan: 'lenaEst',
     rase: 'wite'
   },
   {
     nikName: 'RobinGodSV',
-    reiting: '22268',
+    reiting: '30000',
     position: '69-17-32',
     clan: 'bezLen',
     rase: 'dark'
@@ -22,113 +22,113 @@ export const players = [
   },
   {
     nikName: 'quicksilver1',
-    reiting: '10862',
+    reiting: '18400',
     position: '3-18-34',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
     nikName: 'dadan2019',
-    reiting: '8714',
-    position: '9-18-31',
+    reiting: '11850',
+    position: '9-11-15',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
     nikName: 'Xa3MeN',
-    reiting: '6486',
-    position: '13-11-25',
+    reiting: '14601',
+    position: '38-19-51',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
     nikName: 'MrDeniska',
-    reiting: '5005',
-    position: '30-4-30',
+    reiting: '14420',
+    position: '46-4-60',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'GerZacher',
-    reiting: '4893',
-    position: '17-12-37',
+    reiting: '13400',
+    position: '52-18-34',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'vcoh',
-    reiting: '4677',
+    reiting: '6657',
     position: '46-5-35',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'tvintik2020',
-    reiting: '4538',
-    position: '3-4-15',
+    reiting: '4738',
+    position: '4-4-47',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
     nikName: 'ElenaSheremetev',
-    reiting: '4345',
-    position: '25-4-32',
+    reiting: '11850',
+    position: '56-19-52',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
     nikName: 'AMyP4ek',
-    reiting: '3814',
-    position: '16-19-30',
+    reiting: '1897',
+    position: '34-18-31',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
     nikName: 'diabolik86',
-    reiting: '3742',
-    position: '8-12-49',
+    reiting: '4110',
+    position: '53-4-62',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
     nikName: 'Reeemo',
-    reiting: '3438',
-    position: '63-17-43',
+    reiting: '3920',
+    position: '26-11-30',
     clan: 'bezLen',
     rase: ''
   },
   {
     nikName: 'thundershtorm',
-    reiting: '2909',
-    position: '18-4-52',
+    reiting: '10460',
+    position: '60-10-3',
     clan: 'bezLen',
     rase: 'wite'
   },
   {
     nikName: 'Pavnik',
-    reiting: '2837',
-    position: '41-4-5',
-    clan: 'bezLen',
+    reiting: '128',
+    position: '4-4-29',
+    clan: 'lenaEst',
     rase: 'dark'
   },
   {
     nikName: 'Hafayad',
-    reiting: '2714',
+    reiting: '4160',
     position: '35-20-59',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
     nikName: 'Smelykh',
-    reiting: '2010',
-    position: '40-12-3',
+    reiting: '4400',
+    position: '20-11-12',
     clan: 'bezLen',
     rase: 'dark'
   },
   {
     nikName: 'Rodomir13',
-    reiting: '1198',
-    position: '40-19-8',
+    reiting: '2350',
+    position: '34-4-33',
     clan: 'bezLen',
     rase: 'wite'
   },
