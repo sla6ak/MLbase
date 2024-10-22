@@ -455,13 +455,6 @@ export const players = [
     rase: 'wite'
   },
   {
-    nikName: 'Diver1985',
-    reiting: '319',
-    position: '38-11-61',
-    clan: 'enigma',
-    rase: 'wite'
-  },
-  {
     nikName: 'Evgen203203',
     reiting: '4750',
     position: '70-8-10',
