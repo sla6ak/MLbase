@@ -65,7 +65,14 @@ export const players = [
   {
     nikName: 'vcoh',
     reiting: '6657',
-    position: '46-5-35',
+    position: '10-4-27',
+    clan: 'bezLen',
+    rase: 'wite'
+  },
+  {
+    nikName: 'Bloomi',
+    reiting: '557',
+    position: '3-19-24',
     clan: 'bezLen',
     rase: 'wite'
   },
